@@ -8,9 +8,9 @@
   "email": "",
   "prefix": "-",
   "operators": [
-    "100091459940475"
+    "100079267516878"
   ],
-  "admins": [],
+  "admins": [100079267516878],
   "haspremiumcmd": [],
   "approvedgroups": [],
   "disabledcmds": [],
